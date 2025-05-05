@@ -1,5 +1,5 @@
 <script>
-
+  import Visi from "$lib/components/about/Visi.svelte";
 </script>
 
-<h1>this is about page</h1>
+<Visi  sub1="subjudul 1" title="test vision card" sub2="subjudul 2"/>
